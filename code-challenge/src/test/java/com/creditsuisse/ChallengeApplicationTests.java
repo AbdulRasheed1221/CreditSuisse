@@ -1,4 +1,4 @@
-package com.creditsuisse;
+package com.eclipse.credit.suisse;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
